@@ -15,8 +15,8 @@ FN02=`./myModFilename.py $1`
 # echo "###" $FN02 "###"
 
 
-IIDD='RaspberryU1'
-PPWW='yfpI hli6 YyAP Aaxx'
+IIDD='MyUserAccount99'
+PPWW='PoYn Aaxx ZuHf 6678'
 
 PMES_TITLE='投稿'"[$1]"
 POST_URL='http://ec2-52-196-174-84.ap-northeast-1.compute.amazonaws.com/blog/wp-json/wp/v2/posts'
